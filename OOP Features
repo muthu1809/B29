@@ -1,0 +1,147 @@
+4 Websites: 
+Add: 
+[To Be Discussed]
+[TBD]
+
+Reading: 
+Training Quality: 
+
+Trainer: Trainee Led Training: 
+Latest Updates: 
+1) Important: 
+2) Less Weightage
+Inconsistency: 
+
+Trainer: 
+
+OOP
+
+Day 1: Java Features
+
+Java is a high-level and purely object oriented programming language. [To Be Discussed] [TBD]
+
+It is widely used for software, web, mobile application development, along with this it is also used in big data analytics and server side technology. [TBD]
+
+Oak, this was the first name of Java
+
+
+
+
+https://www.interviewbit.com/blog/features-of-java/
+
+
+Tags: Important Keywords
+Category: 
+
+Object Oriented Programming: 
+
+purely object oriented programming language.
+
+No. Java is not 100% OOP. 
+
+Multiparadigm Programming: 
+
+Procedure Oriented Programming: C
+
+Object Oriented Programming: C++, Java, Python, JS
+
+
+1. Class Based: Java
+2. Prototype Based: JavaScript
+
+They support multiple programming paradigms. 
+
+
+OOP: Object Oriented Programming: 
+high level, general purpose, class based, Object Oriented programming language:
+
+
+
+Object: Real Time Entity.  Physical Entity. 
+Real-world objects share two characteristics: They all have state and behavior.
+
+instance of the class
+
+Dogs have state (name, color, breed, hungry) and behavior (barking, fetching, wagging tail).
+
+An object stores its state in fields (variables in some programming languages) and exposes its behavior through methods (functions in some programming languages). 
+
+
+Bundling code into individual software objects provides a number of benefits, including:[TBD]
+
+    Modularity: The source code for an object can be written and maintained independently of the source code for other objects. Once created, an object can be easily passed around inside the system.
+    Information-hiding: By interacting only with an object's methods, the details of its internal implementation remain hidden from the outside world.
+    Code re-use: If an object already exists (perhaps written by another software developer), you can use that object in your program. This allows specialists to implement/test/debug complex, task-specific objects, which you can then trust to run in your own code.
+    Pluggability and debugging ease: If a particular object turns out to be problematic, you can simply remove it from your application and plug in a different object as its replacement. This is analogous to fixing mechanical problems in the real world. If a bolt breaks, you replace it, not the entire machine.
+
+class: class is a template or blueprint.
+
+A class is the blueprint from which individual objects are created.
+
+Bicycle, Car, Bike, 
+
+gesture:
+1. Smile
+2. Saying Good Morning: 
+
+Active: Chat / Unmute: 
+
+WHY	WHAT	WHEN	WHERE 	HOW
+
+
+Young Men: 
+Look: 
+Color: 
+
+Performance: 
+CC: 
+Less Mileage: 
+
+
+Young Ladies: 
+Look: 
+Color: Variety: Yellow, Pink, 
+
+
+Performance: 
+CC: 
+Less Mileage: Autogear: 
+
+Inheritance: Common Behaviours: 
+
+Inheritance: 
+Object-oriented programming allows classes to inherit commonly used state and behavior from other classes.
+
+In the Java programming language, each class is allowed to have one direct superclass[TBD], and each superclass has the potential for an unlimited number of subclasses:[TBD]
+
+Code Sharing: Code Reusability: 
+
+Polymorphism: 
+Many Forms: 
+
+Bicycle: Normal Bicycle, Gear Bicycles:
+
+Different forms based on different inputs: 
+ride 
+ride-gear
+
+Different forms based on who is doing: 
+myself - cooking
+mother - cooking
+
+Abstraction: Data Hiding
+Showing Only necessary Data and hiding unwanted.
+
+Encapsulation:
+Data Protection: Data Binding:
+
+Youngsters - Men:
+States, Behaviours
+
+Youngsters - Women: 
+States, Behaviours
+
+https://docs.oracle.com/javase/tutorial/java/concepts/object.html
+https://docs.oracle.com/javase/7/docs/api/java/lang/Object.html [TBD]
+
+
