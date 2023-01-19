@@ -1,0 +1,130 @@
+Object Creation:
+
+classname reference_name = new classname();
+
+new - allocates memory inside class
+
+Laptop onButton = new Laptop();
+
+class is Logical Entity: Car Design:
+Object is Physical Entity
+Object is Real Time Entity
+Object is Combination of States and Behaviours.
+Object is Memory Reference of a class.
+Object represents class.
+Object is representative of a class.
+
+
+class School
+{
+public static void main(String[] args)
+{
+School petTeacher = new School();
+//petTeacher trains students.
+petTeacher.train(); // . --> dot operator
+
+}
+void train()
+{
+System.out.println("Training Students");
+}
+}
+
+
+Method:
+Set of Instructions for completing a specific task.
+Other names for Method are - function, subroutine, procedure, Action - வேலை, செயல்.
+
+
+
+1000 line:
+Calculator
+
+add
+sub
+mul
+div
+log
+trig
+
+
+add()
+{
+
+
+
+}
+
+add():
+    sdjfslj
+    sdlkfjsl
+    sdfklsfdjkl
+    sdfsdfklj
+
+
+
+invalid method declaration; return type required
+
+Method Declaration:
+return type:
+
+void - empty.
+
+
+void do_exercise()
+{
+1. jog
+2. walk
+3. exercise
+}
+
+bag go_to_shop()
+{
+1. bought vegetables
+2. bought grocery
+return veg + grocery
+
+}
+
+int
+fees1+fees2+fees3 - int:
+
+Datatypes are Containers:
+
+return - returns to the same method calling statement.
+
+Method - return
+
+returning multiple values - Is it possible in Java?
+Yes, it is possible. Arrays, Collection.
+
+
+System.out.println("Total amount is " + account);
+
+5+10    ==> 15 --> Addition
+
+"Total Amount is " + account --> Concatenation:
+
+Total Amount is 150
+
+local - global:
+
+local variables:
+global variables: Fields:
+
+local variable:
+Variables which are present in JDK's memory only for the particular action.
+
+first month salary: 15 years:
+
+bill:
+
+
+
+1) Object Creation
+2) Method Calling Statement
+3) Method Definition
+4) Method Signature
+5) Method return datatype - void
+6) return keyword
+7) Local Variables
