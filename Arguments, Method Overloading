@@ -1,0 +1,81 @@
+class specific - Memory Load:
+object specific -
+
+1) Compile Time - Compilation
+    - Converting our .java program into .class file [Byte Code]
+2) Runtime  - Execution
+    - Converting our .class file into binary [Machine Code]
+
+Memory for Object will be created only during Execution [Runtime]. static variables and methods will be given memory during class loading time itself.
+
+Without main method, we can compile any Java class.
+
+JVM: Run: Processor: RAM:
+
+
+declare, define, pass, assign, initialize
+
+Arguments / Parameter: Input:
+
+Method - Function - subroutine, procedure - Action:
+
+Meaningful names:
+Method Calling Statement: parameter / arguments
+calc.add(no1, no2);
+
+int add(int no1, int num2): parameter / arguments
+{
+
+}
+WHY:
+Method Overloading increases Code Readability.
+
+What is Method Overloading:
+Same Method Name, Same Number of arguments but different
+datatype of arguments
+Same Method Name, Same Type of arguments but different
+number of arguments
+- Other name of Method Overloading is Compile Time Polymorphism.
+
+Polymorphism:
+Poly means "many". Morph means "forms".
+1. Method Overloading
+    -
+    -
+2. Method Overriding - Inheritance
+    -
+    -
+
+Polymorphism:
+Many Forms:
+
+Bicycle: Normal Bicycle, Gear Bicycles:
+
+Different forms based on different inputs:
+ride
+ride-gear
+
+Different forms based on who is doing:
+myself - cooking
+mother - cooking
+
+
+home key
+home key
+
+
+
+
+
+JavaScript: Interpreted Programming language:
+            Scripting language
+
+Two Step Compilation: C++ --> Object:
+
+OS Dependent:
+
+C#: .class file --> Intermediate Code: Windows:
+
+Java: Linux / Windows / Mac:
+
+Scripting:
