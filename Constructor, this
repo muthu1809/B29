@@ -1,0 +1,50 @@
+Constructor:
+
+this: this refers to current object of same class.
+
+class Book
+{
+int price;
+public static void main(String[] args)
+{
+Book book1 = new Book(50);
+}
+
+}
+
+
+Book.java:11: error: non-static variable this cannot be referenced from a static context
+System.out.println(this.price);
+
+this keyword can't be used inside static area.
+
+this refers current object.
+
+non-static
+
+Initializing Object specific values:
+()
+
+Whenever we create Object, Constructor gets called
+automatically.
+
+By default, Compiler will provide a default constructor,
+which is invisible.
+
+If needed, we can make it as visible. If needed, we can
+overload it.
+
+
+Zero Argument Constructor:
+Developer creates it and it is visible.
+
+Default constructor:
+Compiler will provide a default constructor,
+which is invisible.
+
+
+this() - Explicit Constructor Calling / Invoking
+
+this()
+
+this - self
