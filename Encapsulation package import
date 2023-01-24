@@ -1,0 +1,25 @@
+Code Reusability:
+
+Encapsulation:
+Variables - local variables:
+
+Data Protection:
+
+Binding Data Together into a class:
+
+Access Modifiers:
+1) private
+    We can't access private members from other classes.
+    - Fields    - static, non-static fields
+    - Methods
+    - Constructors
+    - Class can't be private.
+
+2) package-private:
+    - default access modifier
+    - package level access
+
+3) public
+    - Visible to all classes from other packages too.
+
+package, import:
