@@ -1,0 +1,93 @@
+protected
+
+Inheritance: 
+Passing authority to Child: 
+
+Child Object behaves as Parent Object:
+
+Parent  Child: 
+
+extends: 
+Branch extends Office
+Branch(Office)
+Branch:Office
+
+Fields: static, non-static: 
+
+protected: Any class from same package can access
+           Child class from other packages can access
+
+Types Of Inheritance: 
+1) Single Inheritance: 
+2) Multilevel Inheritance --> 
+3) Hierarchical Inheritance
+4) Multiple Inheritance
+
+ctrl+a, ctrl+c, ctrl+n, ctrl+v
+ctrl+h
+
+Hierarchical Inheritance:
+Single Parent - Multiple Children: 
+
+
+Office --> Branch_Office --> Sub_Office
+
+Multiple Inheritance: Diamon 
+Java does not support Multiple Inheritance directly.
+
+private, public, protected --> JavaScript, Python
+Interface                  --> JavaScript, Python
+
+OOPs: Java, C#
+
+Multiple Inheritance: 
+More than One Parent[Father-Mother] for a single child:
+It leads ambiguity. Diamond Problem. 
+
+Interface: 
+
+Python: 
+Child(Father, Mother)
+child.play();
+
+Child(Mother, Father)
+child.play(); 
+
+Polymorphism: MOL, MOR
+Method Overriding: 
+Same Method name, same number of arguments in two different classes
+[Parent Child] 
+Visibility of overridden methods should not be reduced. It can be maintained or increased. 
+
+
+Office.java
+Copy 
+public void work()
+{
+System.out.println("Dev and Testing");
+}
+
+from Office class
+Paste it in Branch_Office.java
+
+
+non-static --> object specific
+object --> off_obj
+
+
+current object --> this --> non-static 
+
+super class object --> super keyword - non-static 
+
+
+final: 
+
+Method Overriding: 
+Action - Definition - Parent
+Action - Own Definition - Children
+
+final go() -- 8 - 3
+go() - 11 - 1
+
+play() - 5 - 7
+
