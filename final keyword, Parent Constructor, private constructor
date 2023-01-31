@@ -1,0 +1,60 @@
+INHERITANCE: 
+
+METHOD OVERRIDING: 
+
+PARENT: 
+
+final: 
+1) final field
+If a field is declared 'final', one can't reassign 
+any value to it. 
+2) final method
+If a method is declared as 'final', one can't override
+the method in sub class. 
+3) final class
+If a class is final, one can't inherit that class. 
+
+
+private constructors: 
+
+Inheritance: 
+Child Object behaves as Parent Object. 
+
+Child Object = Child, Parent: 
+
+When Object is created, Constructor gets called automatically.
+
+By default, Child class constructor will call zero arguments constructor in Parent class. 
+
+In case, If one wants to call specific constructor present in 
+Parent class, How can we do that?
+
+Explicit Constructor Call in same class - this()
+
+Explicit Constructor Call in super class - super()
+
+super(id) should be the first statement in Constructor. 
+
+If the constructor is private, we can't create instances
+[objects / references] outside the class. 
+
+Singleton Design Pattern 
+
+Abstraction:
+Inheritance:
+
+
+If we have at least one abstract method in a class, that 
+class should be abstract 
+
+Instance --> Instantiation: 
+
+One cant create object for abstract class. 
+1) Why?
+
+Pending: 
+Abstraction: 
+Interface
+getter setter
+Dynamic Binding:
+
