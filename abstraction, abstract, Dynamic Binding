@@ -1,0 +1,37 @@
+Inheritance: Child Object behaves as Parent Object. 
+
+Abstract class --> Child class Necessary - Yes
+final class --> Which can't be inherited
+
+abstract and final class - Is it possible to create?
+No. 
+
+Child childObj = new Child();
+Parent parentObj = new Child();
+
+Memory Reference of a class --> Object 
+
+Dynamic Binding: 
+Parent Reference points to Child Memory.
+
+Method Overriding: Runtime Polymorphism: 
+
+Child ch = new Child(); 
+Parent pa = new Child(); 
+
+statically typed programming language
+
+Book book1 = new Book(); 
+
+future reference:
+
+kid.enquire
+
+(5+4*(3-2))
+
+Interface: Dynamic Binding: 
+getter, setter: 
+
+payilagam.com/skills: 
+
+Constructor Copy: Chaining:
